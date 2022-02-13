@@ -1,0 +1,27 @@
+% Un láser de InGaAsP, funcionando a lambda = 1.3 um viene definido por los
+% siguientes parámetros:
+lambda = 1.3e-9; % [m] Longitud de onda
+L = 250e-9; % [m] Longitud de láser
+alpha = 40; % [1/cm]
+n = 3.3;
+ng = 3.4;
+tc = 2e-9; % [s]
+Gn = 6e3; 
+No = 10^8;
+
+% Calcular
+%% a) El tiempo de vida medio del fotón en la cavidad tp.
+
+%% b) El valor umbral de la población de electrones Nth
+
+%% c) El valor de la corriente umbral y la potencia óptica emitida por una 
+% de sus caras si el láser se polariza al doble del valor de la corriente
+% umbral.
+
+%% d) Si la eficiencia interna es 0.9, calcular la eficiencia cuántica 
+% diferencial y la eficiencia cuántica externa cuando el láser se polariza
+% al doble del valor de la corriente umbral.
+
+%% e) Si el láser se polariza al doble del valor de la corriente umbral, 
+% determinar la frecuencia de las oscilaciones de relajación y la anchura
+% de banda de modulación a 3dB
